@@ -2,7 +2,8 @@
 WebApp &amp; XGBoost Model - Restaurant Rating Prediction  
 This project uses machine learning, Python, and Streamlit to create a web application that predicts the rating of a restaurant on an online food delivery service.
 
-<h2> Pease find the app here: [RestaurantRating_App](http://localhost:8501/) </h2>
+<h2> Pease find the app here:</h2>
+ [RestaurantRating_App](http://localhost:8501/) 
 
 <h1>OVERVIEW</h1>
 <b>
