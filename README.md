@@ -19,6 +19,7 @@ Steps followed in building the Model:
   - Random Forest 
   - XGBoost Model
 8. Deployment of the Model using Streamlit Application.
+[RestaurantRating_App](http://localhost:8501/)
 </b>
 
 
