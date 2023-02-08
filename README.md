@@ -8,6 +8,8 @@ The data from an online food app, which needs assistance in predicting the futur
 
   
   <h2> Steps followed to build the Model: </h2>
+  
+ 
 1. Data cleaning & Preparation.
 2. Exploratory Data Analysis.
 3. Missing Value & Outlier Treatment
