@@ -8,7 +8,7 @@ import streamlit as st
 
 
 # Loading the Dataset
-RtData = pd.read_csv('Restaurant_Data.csv', encoding='latin')
+RtData = pd.read_csv('RestaurantRatingData.csv', encoding='latin')
 # Selecting the restaurants located in India
 RtData = RtData[(RtData.Currency == "Indian Rupees(Rs.)")]
 # Removing the data where Average cost is 0
