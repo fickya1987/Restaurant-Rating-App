@@ -63,7 +63,7 @@ X=DataForML_Numeric[Predictors].values
 y=DataForML_Numeric[TargetVariable].values
 
 # Split the data into training and testing set
-from sklearn.model_selection import train_test_split
+from scikit-learn.model_selection import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=428)
 
 # XGBOOST Model
