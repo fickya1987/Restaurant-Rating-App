@@ -1,5 +1,5 @@
-pandas
-numpy
-streamlit
-scikit-learn
-IPython
+pandas==2.2.2
+numpy=2.0.0
+streamlit==1.36.0
+scikit-learn==1.5.1
+ipython==8.26.0
